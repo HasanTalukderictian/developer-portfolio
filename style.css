@@ -31,3 +31,20 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.dream-big{
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 5%;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+.width-2ndhalf{
+    width: 80%;
+    height: 100%;
+}
+.dream-color{
+    color: rgba(243, 188, 9, 0.892);
+    font-size: larger;
+    font-family: sans-serif;
+}
